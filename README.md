@@ -1,2 +1,5 @@
 # datamodeling201
-data modeling on Tuesday afternoon. Just as a reminder, we are expecting all of you to provide types of digital objects to model, preferably with additional documentation such as sample records, diagrams, etc. if possible.Please add your object example (it can be in a relatively rough state) to our shared notes space before the workshop. If you need to add files, feel free to use our workshop’s Google Drive folder: http://bit.ly/C4LDataModeling201Drive
+workshop’s Google Drive folder: http://bit.ly/C4LDataModeling201Drive
+
+Description: UCI eSports initiative. Wants to start an archive of eSports research on campus. To include traditional scholarsly publications as well as software, design assets for creating games, and biometric data from gamers. 
+Use case: doctoral student writing dissertation about frame-perfect play in World of Warcraft
