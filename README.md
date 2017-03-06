@@ -9,8 +9,17 @@ Use case: doctoral student writing dissertation about frame-perfect play in Worl
 controller and is observing players who strive for the "ultimate" play. He is tracking eye movement and thumb movement with videos of gamers.
 
 Collection: UCI eSports Archive
+
+Collection: World of Warcraft 
+
 Object: Dissertation
+
 Object: Dissertation data
-File: Dissertation 
-File: Video
+
+File: Dissertation PDF
+
+File: Video of player
+
 File: CAD prototype controller
+
+File: Controller software
