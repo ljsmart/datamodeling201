@@ -1,0 +1,2 @@
+# datamodeling201
+data modeling on Tuesday afternoon. Just as a reminder, we are expecting all of you to provide types of digital objects to model, preferably with additional documentation such as sample records, diagrams, etc. if possible.Please add your object example (it can be in a relatively rough state) to our shared notes space before the workshop. If you need to add files, feel free to use our workshop’s Google Drive folder: http://bit.ly/C4LDataModeling201Drive
